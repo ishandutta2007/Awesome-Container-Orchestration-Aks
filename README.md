@@ -49,9 +49,9 @@ A curated list of **SaaS Container Orchestration Platforms**, **Managed Kubernet
 
 ## 🔓 Open-Source Kubernetes Distributions & Tooling
 
-*Sorted by GitHub Star count in descending order. Star badges link directly to each repository's stargazers page.*
+*Sorted by GitHub Stars_Count in descending order. Stars_Badges link directly to each repository's stargazers page.*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | **The foundational container orchestration engine.** Production-grade, battle-tested, standard setter for cloud-native computing. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) |
 | **[Minikube](https://github.com/kubernetes/minikube)** | **Local Kubernetes engine.** Fast, multi-driver local K8s cluster generator for macOS, Linux, and Windows. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/kubernetes/minikube?style=social&color=white)](https://github.com/kubernetes/minikube/stargazers) |
